@@ -1,0 +1,12 @@
+---
+description: "Java Resource Library: S3 Object Storage (AWS SDK for Java v2)"
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+languages: ["Java"]
+tags: ["s3", "storage", "resource", "library"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
